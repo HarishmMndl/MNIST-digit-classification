@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+cnn_env/
+env/
+venv/
+
+# Python cache & checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
